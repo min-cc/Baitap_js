@@ -95,7 +95,7 @@ function diemvanthapnhat() {
   })
 }
 
-//Clone diem thi
+// Clone diem thi
 function clone() {
   return JSON.parse(JSON.stringify(diemthi))
 }
@@ -148,7 +148,3 @@ function diemTBrandom() {
     diemtb: diemtrungbinh(a.diemthi)
   }
 }
-
-
-
-
